@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        h2{
+            border: 4px solid red;
+            border-radius: 20px;
+            /* border-bottom: 4px solid red;
+            border-top: 8px dotted green; */
+            /* border-width: 4px;
+            border-style: solid;
+            border-color: red; */
+        }
+        /* div{
+            border: 8px solid green;
+        } */
+        p{
+            border: 4px solid green;
+        }
+        span{
+            border: 2px solid black;
+        }
+       
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <!-- ###########div######## -->
+    <div class="header">
+        <ul>
+            <li class='home'>home</li>
+            <li>about</li>
+        </ul>
+    </div>
+
+    <!-- ###########div######## -->
+    <h2>main heading</h2>
+
+    <!-- ###########div######## -->
+    <img src="image.jpg" alt="">
+
+    <!-- ###########div######## -->
+    <p> this <span>is</span> paragraph</p>
+</body>
+</html>

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Akshay Kumar">
+    <meta name="description" content="This is metatag tutorial">
+    <meta name="keyword" content="HTML, Tutorial">
+    <title>Tutorial</title>
+    <style>
+        h2{
+            color:red
+        }
+        h1{
+            color:aqua
+        }
+    .headings{
+        background-color: black;
+        color: aliceblue;
+    }.amet{
+        color:blue;
+    }
+    </style>
+</head>
+<body>
+    <div class="headings">
+    <h1>This is heading</h1>
+    <h2>hello</h4>
+    <h3>hello</h3>
+    <h4>hello</h4>
+    <h5>hello</h5>
+    <h6>hello</h6>
+    </div>
+    <p>Lorem ipsum dolor sit <span>amet</span> consectetur adipisicing elit. 
+        Commodi aliquam dolores vel deserunt delectus quas, 
+        dolorem voluptatibus quia accusantium vitae culpa tempore. Corporis ipsam, 
+        reiciendis dignissimos dolores quia, odit ullam quae in sint ratione nisi 
+        molestiae iure repellat explicabo? Officiis nesciunt, 
+        quasi in quibusdam maxime veritatis commodi explicabo molestiae voluptate.
+    </p>
+    <a href="https://www.google.com/" target="_blank">Google link</a>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Flpu-online%2Fid1599437920&psig=AOvVaw1UIJ_lEi4z3UWRRuQwlEmr&ust=1670920441843000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjome3V8_sCFQAAAAAdAAAAABAj" alt="logo">
+    <h2>Tables</h2>
+    <table border="5">
+
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Harshit</td>
+                <td>Vashistha</td>
+            </tr>
+            <tr>
+                <td>Mohit</td>
+                <td>Vashistha</td>
+            </tr>
+        </tbody>
+
+    </table>
+    <h2>HTML Form</h2>
+    <form>
+        <label for="username">: </label>
+        <input type="text" id="username" placeholder="Username">
+        <br>
+        <br>
+        <br>
+        <label for="password">: </label>
+        <input type="password" id="password" placeholder="Password">
+        <br>
+        <br>
+        <p>select your gender</p>
+        <label for="male">male</label>
+        <input type="radio" name="gender" id="male">
+        <br>
+        <label for="female">female</label>
+        <input type="radio" name="gender" id="female">
+        <br>
+        <label for="country">country</label>
+        <select name="" id="country">
+            <option value="India">India</option>
+            <option value="Nepal">Nepal</option>
+            <option value="china">China</option>
+            <option value="Srilanka">Srilanka</option>
+        </select>
+        <br>
+        <br>
+        <input type="submit" value="sign in"
+    </form>
+    <p>Lorem <em>ipsum</em> dolor sit amet consectetur adipisicing elit. 
+        Eveniet doloremque quae dicta vero temporibus voluptatibus 
+        facilis amet quisquam, suscipit at quidem odit dolore consequatur omnis, 
+        magnam tenetur pariatur inventore! <strong>quaerat</strong> et tempore aliquid deserunt 
+        exercitationem iure ipsam tempora perferendis corrupti, 
+        eligendi soluta perspiciatis vitae blanditiis unde, rerum quae ea.
+    </p>
+    <p>copyright &copy; </p>
+    <p>2 &lt; 5</p>
+    <p>5 &gt; 2</p>
+    <p>&amp;</p>
+    <p>&#8377</p>
+</body>
+</html>

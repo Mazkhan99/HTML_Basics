@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS selector</title>
+    <style>
+        body{
+            color: blue;
+        }
+        div{
+            background-color: #cdcdcd;
+        }
+    </style>
+</head>
+<body>
+    <div id="main-heading">
+        <h1>Main Heading</h1>
+    </div>
+    <div class="main-section">
+        <h2>Sub Heading</h2>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea quidem suscipit ab animi provident iusto eius, reprehenderit id libero at velit optio, saepe commodi voluptatem accusamus quo quaerat dicta. Molestiae obcaecati cumque provident dignissimos aperiam minus vero, reprehenderit laboriosam ducimus asperiores animi nemo reiciendis cupiditate hic in ipsa quos! Dolorum.</p>
+    </div>
+</body>
+</html>

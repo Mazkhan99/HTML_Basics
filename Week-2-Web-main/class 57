@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML CSS JS</title>
+</head>
+<body>
+<hr>
+  <div class="box1">
+    
+    <h1>
+      heading1
+    </h1>
+    <p>
+      Generate Lorem Ipsum placeholder text for use in your graphic, print and web layouts, and discover plugins for your favorite writing, design and blogging tools. Explore the origins, history and meaning of the famous passage, and learn how Lorem Ipsum went from scrambled Latin passage to ubiqitous dummy text.
+    </p>
+  </div>
+  <style>
+    hr{
+      width:500px;
+      margin-left:0;
+      border: 0.5px dotted blue;
+    }
+    .box1{
+      box-sizing: border-box;
+      width:500px;
+      background:pink;
+      border:10px solid red;
+      padding:50px;
+    }
+  </style>
+</body>
+  
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS selector</title>
+    <style>
+        input[type="text"]{
+            color:red;
+            background-color: aqua;
+        }
+        input[type="password"]{
+            color: blue;
+            background-color:bisque;
+        }
+    </style>
+</head>
+<body>
+    <h2>Links</h2>
+    <a href="https://www.google.co.in/">Google India</a><br>
+    <a href="https://www.google.co.uk/">Google UK</a><br>
+    <a href="https://www.flipkart.com/">Flipkart</a><br>
+    
+    <h2>Form</h2>
+    <form>
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname"><br>
+        <label for="pass">password:</label><br>
+        <input type="password" id="pass"><br><br>
+        <input type="button" value="Submit"><br>
+        
+    </form>
+</body>
+</html>

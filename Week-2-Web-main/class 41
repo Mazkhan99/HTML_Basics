@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Tutorial</title>
+    <style>
+        h1{
+            color: aqua;
+        }
+        h2{
+            color: aqua;
+        }
+        .main-section{
+            background-color: #d0d6d5;
+        }
+        .sub-section{
+            background-color: #d0d6d5;
+        }
+        .heading{
+            background-color: #d0d6d5;
+        }
+        .body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+   
+</head>
+<body>
+    
+    <div class="heading">
+    <h1>Main Header</h1>
+    <ul>
+        <li>item</li>
+        <li>item</li>
+        <li>item</li>
+    </ul></div>
+    <div class="main-section">
+    <h2>My First Blog</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi natus voluptates provident ex minima doloremque amet odio quisquam error eligendi maxime ullam quae sunt deleniti quia, eius quam laboriosam velit praesentium. Quas fugit illo a sit facilis voluptas natus inventore, eveniet quo iusto labore perspiciatis harum nisi odio veritatis rem nulla. Maiores rem explicabo quibusdam quae optio officia, itaque, perferendis dolorem aliquid laudantium quis quas libero dignissimos harum alias eaque excepturi sapiente illum repudiandae corporis facilis amet nihil porro! Adipisci, nemo non. Nulla doloribus unde in id hic officiis eveniet a cumque consectetur magni explicabo vitae, dolorem obcaecati velit numquam beatae voluptatibus accusamus ad consequuntur sed, ipsum harum. Doloremque dolor vero quod facilis non dolore maiores, tempore libero, repellat ipsum quas molestias consectetur ea consequatur voluptate, placeat quaerat. Blanditiis perspiciatis officia deserunt alias facilis sapiente expedita laboriosam labore molestias sed adipisci ea consectetur, sequi quisquam. Eveniet repudiandae fugit assumenda iste cumque omnis fuga magni, sunt rerum repellendus sequi porro in veniam eius laudantium accusantium nostrum! Ipsam quaerat culpa nostrum quod! Odit natus aliquid quasi at quod! Sunt officiis modi consectetur consequatur, maxime dolorem voluptate minima obcaecati, vel aspernatur accusantium laudantium debitis aliquid dicta beatae eveniet iure, fugit vitae veritatis odio!
+    </p></div>
+    <div class="sub-section">
+    <h2>My Second Blog</h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo fugiat officiis eaque nostrum ratione quas, sapiente debitis enim cum, quidem porro! Labore minima veritatis dicta! Architecto corporis minima exercitationem veritatis odit dignissimos illo facere blanditiis iste sit? At suscipit dolorum earum consequatur a omnis nobis doloremque odio facere impedit aspernatur quam, exercitationem, tempore officiis? Temporibus officiis blanditiis cumque assumenda. Id ipsam sit necessitatibus maiores facere ducimus qui rerum voluptatibus non aperiam esse officiis, harum cum. Blanditiis animi eum similique odit officiis quis, magnam, assumenda dolorum tempore reiciendis fugiat fuga! Eligendi, incidunt voluptas. Repellat dolor, quibusdam optio natus blanditiis velit ut atque rem possimus doloribus! Dicta laboriosam non culpa deleniti exercitationem quidem iusto atque, nostrum ipsam aliquam, iure, dolores odio tenetur laudantium? Repudiandae sunt, officiis autem voluptate corrupti ipsam. Nobis id repudiandae earum praesentium. Fugit mollitia exercitationem accusantium dolorem eveniet hic reiciendis distinctio voluptatibus quos cum quisquam similique et ullam, voluptas iste quasi quod accusamus corrupti, iure molestiae tempore ipsum sed vero! Vel quia praesentium asperiores labore dignissimos magnam nostrum voluptatem earum facilis. Facere nulla nobis non officiis autem sequi atque corporis natus, accusantium incidunt tempore ea aliquam a ipsa dolorum velit reiciendis dolorem tempora distinctio consectetur fugit in consequatur magnam?
+    </p></div>
+
+</body>
+</html>

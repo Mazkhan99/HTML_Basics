@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Tutorial</title>
+    <style>
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .text-red{
+        color: rgb(167, 53, 0);
+    }
+    .text-green{
+        color: rgb(0, 128, 32);
+    }
+    </style>
+   
+</head>
+<body>
+    <h1 id="Heading">Main Heading</h1>
+    <p class="blog-content">Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, nihil repellat? Voluptates eos debitis provident neque quaerat. Dicta eveniet sunt voluptatem quibusdam facere nulla cum deserunt ullam qui, aspernatur praesentium eaque laboriosam aut possimus, doloribus sint alias perferendis dolore. Vel officia impedit eum distinctio accusantium iste quia possimus aliquid veniam molestias voluptas error assumenda molestiae, porro hic culpa ad laudantium placeat aspernatur quos nulla provident omnis! Amet minus unde distinctio. Animi quasi inventore itaque commodi omnis libero at, ex corporis molestiae, optio et voluptas placeat maiores aspernatur error. Cumque numquam ab velit eos quia et assumenda quam dolores debitis esse vero sequi blanditiis accusamus, voluptates itaque harum repudiandae ratione repellendus nisi rerum labore. Quisquam rerum fugiat iste facilis ratione eveniet sequi quaerat, dicta quos nemo? Nesciunt quisquam delectus ullam rerum soluta nihil, ipsum quos accusantium asperiores nostrum qui officia quae inventore earum minus, est esse odio, adipisci repellendus doloremque expedita!</p>
+    <h2 id="text-green">Heading Two</h2>
+    <p class="blog-content text-green">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus rem nobis autem et sed culpa asperiores quibusdam, consequatur, cupiditate repellendus corporis odio quae aperiam! Voluptatum vel dolor atque laborum minus accusamus accusantium sapiente voluptatibus et, ipsum aperiam architecto nihil iure eveniet temporibus quo sequi animi iusto? Corrupti cupiditate aut ad?
+    </p>
+    <h2 id="text-red">Heading Three</h2>
+    <p class="blog-content text-red">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus rem nobis autem et sed culpa asperiores quibusdam, consequatur, cupiditate repellendus corporis odio quae aperiam! Voluptatum vel dolor atque laborum minus accusamus accusantium sapiente voluptatibus et, ipsum aperiam architecto nihil iure eveniet temporibus quo sequi animi iusto? Corrupti cupiditate aut ad?
+    </p>
+
+</body>
+</html>

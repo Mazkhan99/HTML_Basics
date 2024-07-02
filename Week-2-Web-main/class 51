@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        .box1, .box2{
+            border: 2px solid #444;
+            padding: 10px;
+        }
+        .box1{
+            margin-bottom: 80px;
+        }
+        .box2{
+            margin-top: 70px;
+        }
+    </style>
+    <title>Margin Collapsing</title>
+</head>
+<body>
+    <div class="box1">
+        <h2>this is box 1</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque pariatur aliquam natus id ea quod veritatis quas, minima dignissimos veniam repellat dolorem voluptatem laborum animi. Iste atque iusto, perspiciatis ad reprehenderit ratione? Cumque ut harum aliquid tenetur perferendis incidunt voluptate totam hic, cupiditate nobis magni amet quas reiciendis doloremque corporis!</p>
+    </div>
+
+
+    <div class="box2">
+        <h2>this is box 2</h2>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Delectus at reiciendis tempora quia, harum eveniet omnis, dolore, excepturi culpa dignissimos temporibus? Hic, autem expedita. Dolore aliquid cumque molestias nam ut doloremque quo impedit voluptas facere eveniet at, cum odit voluptate illo. Maiores iure sit quo laborum, at totam nesciunt unde?</p>
+    </div>
+</body>
+</html>

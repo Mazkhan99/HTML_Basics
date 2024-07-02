@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Poppins:wght@300;400;500&family=Roboto:ital,wght@0,500;1,400&display=swap');
+        body{
+            font-family: 'Montserrat', sans-serif;
+            font-family: 'Poppins', sans-serif;
+            font-family: 'Roboto', sans-serif;
+        }
+        .container{
+            width: 1400px;
+            /* border: 2px solid red; */
+            margin: 0px auto;
+        }
+        h1{
+            background: #cdcdcd;
+            text-align: center;
+            padding: 15px 0px;
+        }
+        section.about-me, section.about-lilly{
+            border: 2px solid #666;
+            padding: 10px;
+        }
+        .about-me{
+            margin-bottom: 40px;
+        }
+        h3{
+            text-transform: uppercase;
+            color: #444;
+        }
+
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div class="conatiner">
+        <h1>My Website</h1>
+        <section class="about-me">
+            <h3>Something about me</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis doloremque mollitia est, fugiat similique alias quia vel consequatur, sed reiciendis inventore ex repellendus, minus repellat necessitatibus modi cum. Sapiente alias possimus amet laudantium corrupti minus veniam non ad id. Placeat itaque sed rem suscipit! Quod rem praesentium hic voluptatibus dolore sunt ab aspernatur ut nam distinctio ad dolores delectus nemo, ipsum libero vel officiis. Dolorum voluptas, repudiandae reiciendis odio error perspiciatis sit quisquam! Tempore, facere odit in corporis esse deleniti praesentium ipsam doloremque asperiores incidunt quasi fugiat dolores, quidem at eum hic neque adipisci velit tempora repellat tenetur quisquam temporibus assumenda omnis. Eius, error excepturi qui quo perspiciatis adipisci pariatur nisi quaerat explicabo non consectetur unde ab tempora reprehenderit nihil officiis voluptatem animi. Beatae cum assumenda sint soluta totam dolor expedita incidunt, similique molestiae sunt eius quisquam porro maiores consequatur, asperiores ipsum? Illum voluptatum numquam autem eos pariatur temporibus necessitatibus non esse vel! Laboriosam quisquam earum consequuntur voluptatem totam nobis odio, laudantium nemo, itaque velit, ex cumque distinctio porro fuga a sapiente voluptates similique quos reprehenderit? Dolore quaerat quibusdam nam, odit doloribus ab, debitis tenetur iste suscipit nostrum perspiciatis iure voluptatum. Ab sapiente non cumque fuga quasi suscipit, itaque accusamus.</p>
+        </section>
+        <section class="about-lilly">
+            <h3>Something about lilly</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis sapiente minus, ipsam nesciunt impedit nemo, architecto repellendus dolore aut voluptates culpa consectetur adipisci a magnam eaque! Non debitis atque, illum dolor provident vero quasi animi hic ad alias similique, cumque quidem commodi, veniam natus! Inventore fugiat natus dolorum aspernatur deserunt praesentium quibusdam dicta sequi rerum a, voluptas aliquam ullam ab commodi? Illum soluta sapiente, laudantium officia quidem consectetur odit sint natus eligendi iure possimus quibusdam, maxime ipsam eaque officiis suscipit quasi molestiae quam fugit ad cum earum! Deserunt, atque minus culpa distinctio a totam rem, eum aspernatur magnam inventore reprehenderit iusto sit, quos enim neque! Accusantium assumenda blanditiis enim voluptate eaque odit? Vel adipisci, voluptatibus impedit eos, id esse quibusdam voluptas incidunt aut doloribus similique, natus saepe quos fugit consectetur facilis mollitia error? Non aliquid accusantium magnam tempore praesentium officiis. Quas recusandae quaerat odit nihil, similique libero dolorum maxime voluptates commodi dolorem accusamus provident animi minima et corrupti repudiandae pariatur ratione cumque saepe facilis. A, nobis aspernatur! Possimus accusamus unde tempore voluptatem. Adipisci fuga, harum unde delectus provident iste inventore magnam quaerat accusamus porro eaque temporibus sunt eius autem veniam ut quisquam assumenda excepturi, nam illo! Illo magni quidem rem!
+            </p>
+        </section>
+
+    </div>
+   
+</body>
+</html>

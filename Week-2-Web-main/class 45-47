@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+
+          /* inline style attributer >  id selector > class selector > element selector */
+
+        div#container ul.my-songs li{
+            color: brown;
+            background-color: yellow;
+        }
+        /* How to calculate specificity */
+        /* 0,1,1,3 ---> 113 */ 
+
+        div#container ul.my-songs li.favourite{
+            color:yellow;
+            background-color: brown;
+        }
+        /* 0,0,1,0 --> 10 old specificity*/
+        /* 0,1,2,3 --> 123 new specificity */
+
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <div id="container">
+        <ul class="my-songs">
+            <li class="favourite">Fly to the moon</li>
+            <li>Like I can</li>
+            <li>Set Fire to the rain</li>
+            <li>Turkish March</li>
+        </ul>
+    </div>
+</body>
+</html>

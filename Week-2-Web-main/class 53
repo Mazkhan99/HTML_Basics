@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML CSS JS</title>
+</head>
+<body>
+<img src="https://th.bing.com/th/id/OIP.0V606sM6o3HHloKw7Zkj8AHaE8?pid=ImgDet&rs=1">
+<img src="https://th.bing.com/th/id/OIP.OqMKDyl825l2cSOa4lnWrgHaE8?pid=ImgDet&rs=1">
+<img src="https://th.bing.com/th/id/OIP.q4flPaxqalVW9KSl9kYsAAHaEo?pid=ImgDet&w=600&h=375&rs=1">
+<style>
+  img{
+    height:300px;
+    width: 300px;
+    margin: 20px;
+    padding: 10px;
+    border: 20px solid blue;
+      
+ 
+  }
+  
+  </style>
+</body>
+</html>

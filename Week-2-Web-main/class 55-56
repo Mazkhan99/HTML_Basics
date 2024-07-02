@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Poppins:ital,wght@1,200&family=Roboto:ital,wght@0,500;1,400&display=swap');
+        body{
+            font-family: 'Poppins', sans-serif;
+            color: #444;
+            padding: 0px 40px;
+        }
+        a{
+            color: #444;
+            text-decoration: none;
+        }
+        nav{
+           background:#cecece;
+        }
+        nav ul{
+            padding-left: 0px;
+            text-align: center;
+        }
+        nav li{
+            display: inline-block;
+            list-style: none;
+            border-bottom: 1px solid #444;
+            margin: 15px 20px;
+            font-size: 20px;
+            text-transform: uppercase;
+
+        }
+        section{
+            margin-top: 50px;
+
+        }
+        h1,h2,h3{
+            color: #222;
+
+        }
+        h2{
+            border-bottom: 1px solid #444;
+        }
+
+
+    </style>
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#About">About us</a></li>
+            <li><a href="#Contact">Contact us
+            </a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <h2>Welcome to this lovely website</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iste exercitationem doloremque natus dolorum qui illum blanditiis quo animi non repellat est, delectus, inventore voluptatem accusantium, minima placeat error? Fuga esse nisi mollitia aperiam dignissimos repellat eius tempora omnis eum dolorum exercitationem inventore placeat distinctio repellendus porro assumenda unde fugiat adipisci, laudantium numquam doloremque labore vero nam. Minus quas alias nobis saepe possimus voluptates blanditiis voluptatem, tenetur maxime non voluptatibus perferendis consectetur similique optio dolor ipsum dignissimos quaerat? Dolorum mollitia ullam quasi, unde omnis iusto! Rerum dignissimos recusandae iure libero eum vero ratione praesentium, esse rem eius tenetur deleniti, quas quasi similique odit, repellendus maxime? Quisquam aspernatur unde enim incidunt est? Ratione libero aspernatur inventore cumque ab voluptatem nemo labore corrupti, nam sit quae, ipsum debitis perferendis nihil. Laboriosam aperiam nesciunt aliquam ipsum explicabo iusto maiores perspiciatis tempora saepe, dolores veniam assumenda dignissimos recusandae harum natus vitae ex voluptatum, eius voluptate doloremque commodi obcaecati eos repudiandae totam! Aliquam incidunt, adipisci, vitae ducimus, officiis magni ex provident perferendis accusantium aut sapiente optio. Iure, maiores quos officiis assumenda necessitatibus qui eum similique, praesentium optio error excepturi rerum sit est perspiciatis amet at non nemo. Ducimus quod similique id dolores, aut blanditiis soluta!</p>
+    </section>
+    <section id="About">
+        <h2>About Us</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iste exercitationem doloremque natus dolorum qui illum blanditiis quo animi non repellat est, delectus, inventore voluptatem accusantium, minima placeat error? Fuga esse nisi mollitia aperiam dignissimos repellat eius tempora omnis eum dolorum exercitationem inventore placeat distinctio repellendus porro assumenda unde fugiat adipisci, laudantium numquam doloremque labore vero nam. Minus quas alias nobis saepe possimus voluptates blanditiis voluptatem, tenetur maxime non voluptatibus perferendis consectetur similique optio dolor ipsum dignissimos quaerat? Dolorum mollitia ullam quasi, unde omnis iusto! Rerum dignissimos recusandae iure libero eum vero ratione praesentium, esse rem eius tenetur deleniti, quas quasi similique odit, repellendus maxime? Quisquam aspernatur unde enim incidunt est? Ratione libero aspernatur inventore cumque ab voluptatem nemo labore corrupti, nam sit quae, ipsum debitis perferendis nihil. Laboriosam aperiam nesciunt aliquam ipsum explicabo iusto maiores perspiciatis tempora saepe, dolores veniam assumenda dignissimos recusandae harum natus vitae ex voluptatum, eius voluptate doloremque commodi obcaecati eos repudiandae totam! Aliquam incidunt, adipisci, vitae ducimus, officiis magni ex provident perferendis accusantium aut sapiente optio. Iure, maiores quos officiis assumenda necessitatibus qui eum similique, praesentium optio error excepturi rerum sit est perspiciatis amet at non nemo. Ducimus quod similique id dolores, aut blanditiis soluta!</p>
+        
+    </section>
+    <section id="Contact">
+        <h2>Contact Us</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et iste exercitationem doloremque natus dolorum qui illum blanditiis quo animi non repellat est, delectus, inventore voluptatem accusantium, minima placeat error? Fuga esse nisi mollitia aperiam dignissimos repellat eius tempora omnis eum dolorum exercitationem inventore placeat distinctio repellendus porro assumenda unde fugiat adipisci, laudantium numquam doloremque labore vero nam. Minus quas alias nobis saepe possimus voluptates blanditiis voluptatem, tenetur maxime non voluptatibus perferendis consectetur similique optio dolor ipsum dignissimos quaerat? Dolorum mollitia ullam quasi, unde omnis iusto! Rerum dignissimos recusandae iure libero eum vero ratione praesentium, esse rem eius tenetur deleniti, quas quasi similique odit, repellendus maxime? Quisquam aspernatur unde enim incidunt est? Ratione libero aspernatur inventore cumque ab voluptatem nemo labore corrupti, nam sit quae, ipsum debitis perferendis nihil. Laboriosam aperiam nesciunt aliquam ipsum explicabo iusto maiores perspiciatis tempora saepe, dolores veniam assumenda dignissimos recusandae harum natus vitae ex voluptatum, eius voluptate doloremque commodi obcaecati eos repudiandae totam! Aliquam incidunt, adipisci, vitae ducimus, officiis magni ex provident perferendis accusantium aut sapiente optio. Iure, maiores quos officiis assumenda necessitatibus qui eum similique, praesentium optio error excepturi rerum sit est perspiciatis amet at non nemo. Ducimus quod similique id dolores, aut blanditiis soluta!</p>
+        
+    </section>
+</body>
